@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+pillow
+numpy
+scikit-learn
+nltk
+transformers
+scipy
