@@ -6,4 +6,6 @@ numpy
 scikit-learn
 nltk
 transformers
+transformer-utils
 scipy
+torch

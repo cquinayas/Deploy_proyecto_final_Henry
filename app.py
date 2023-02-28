@@ -15,7 +15,7 @@ felix = Image.open('scr/Felix.jpg')
 sole = Image.open('scr/Sole.jpeg')
 Jacque = Image.open('scr/Jacque.jpeg')
 cesar = Image.open('scr/Cesar.jpeg')
-franco = Image.open('scr/franco.jpg')
+franco = Image.open('scr/Franco.jpg')
 ####################
 ### INTRODUCTION ###
 ####################
