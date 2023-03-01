@@ -75,19 +75,19 @@ with col11:
 col13, col14, col15, col16, col17 = st.columns(5)
 with col13:
     st.image(sole,width=100)
-    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/m-soledad-gonzalez-data[removed]" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Soledad Gonzalez</a></h5>', unsafe_allow_html=True)
+    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/m-soledad-gonzalez-data" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Soledad Gonzalez</a></h5>', unsafe_allow_html=True)
 with col14:
     st.image(Jacque,width=100)
-    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/jacqueline-dominguez-51191420/[removed]" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Jacqueline Dominguez</a></h5>', unsafe_allow_html=True)
+    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/jacqueline-dominguez-51191420/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Jacqueline Dominguez</a></h5>', unsafe_allow_html=True)
 with col15:
     st.image(franco,width=100)
-    st.markdown('<h5 style="text-align: left;"><a href=""https://www.linkedin.com/in/francosoto/[removed]" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Franco Soto</a></h5>', unsafe_allow_html=True)
+    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/francosoto/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Franco Soto</a></h5>', unsafe_allow_html=True)
 with col16:
     st.image(felix,width=100)
-    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/felixwongp/[removed]" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Felix Wong</a></h5>', unsafe_allow_html=True)
+    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/felixwongp/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Felix Wong</a></h5>', unsafe_allow_html=True)
 with col17:
     st.image(cesar,width=100)
-    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> César Quinayás</a></h5>', unsafe_allow_html=True)
+    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/cesar-augusto-quinayas-burgos-544084243/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> César Quinayás</a></h5>', unsafe_allow_html=True)
 
 st.markdown('<h3 style="text-align: center; color:while">💹 Nuestro equipo está a su disposición para ayudarle a crear valor para su negocio 💹</h3>', unsafe_allow_html=True)
 
