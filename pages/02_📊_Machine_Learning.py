@@ -131,10 +131,10 @@ with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 col9, col10, col11 = st.columns(3)    
 with col10:
-    st.markdown('<h3 style="text-align: justify;">Sistema de recomendación</h3>', unsafe_allow_html=True)   
+    st.markdown('<h3 style="text-align: justify;color: white">Sistema de recomendación</h3>', unsafe_allow_html=True)   
 col1,col2= st.columns(2)
 with col1:
-    st.markdown('<h3 style="text-align: justify;">Top 5 de alojamientos recomendados</h3>', unsafe_allow_html=True)
+    st.markdown('<h3 style="text-align: justify;color: white">Top 5 de alojamientos recomendados</h3>', unsafe_allow_html=True)
     st.dataframe(data=recomen[['name_hotel',"avg_rating",'cat_name','state_name','sentimiento','url']])
 with col2: 
     
@@ -143,7 +143,7 @@ with col2:
 st.write("")
 col6, col7, col8 = st.columns(3)
 with col7:
-    st.markdown('<h3 style="text-align: justify;">Análisis de sentimientos</h3>', unsafe_allow_html=True)
+    st.markdown('<h3 style="text-align: justify;color: white">Análisis de sentimientos</h3>', unsafe_allow_html=True)
  
 col3, col4, col5 = st.columns([1,2,1])
 with col4:

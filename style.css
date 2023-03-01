@@ -14,8 +14,10 @@ div.css-6qob1r.e1fqkh3o3 {
     /*padding: 5% 5% 5% 10%;*/
     /*padding-left: 10px;*/
     font-family: sans-serif;
+    color: white;
     padding: auto;
     border-radius: 20px;
+
 }
 header.css-1avcm0n.e8zbici2, footer.css-10pw50.egzxvld1{
     background-color: black;
@@ -23,5 +25,7 @@ header.css-1avcm0n.e8zbici2, footer.css-10pw50.egzxvld1{
 
 }
 
-
+div.css-79elbk.e1fqkh3o10{
+    color:white;
+}
 
