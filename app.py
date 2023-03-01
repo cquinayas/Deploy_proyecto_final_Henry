@@ -11,11 +11,11 @@ with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
     
 image = Image.open('scr/STREAMLIT.png')
-felix = Image.open('scr/Felix.jpg')
-sole = Image.open('scr/Sole.jpeg')
-Jacque = Image.open('scr/Jacque.jpeg')
-cesar = Image.open('scr/Cesar.jpeg')
-franco = Image.open('scr/Franco.jpg')
+felix = Image.open('scr/Felix.png')
+sole = Image.open('scr/Sole.png')
+Jacque = Image.open('scr/Jac.png')
+cesar = Image.open('scr/Cesar.png')
+franco = Image.open('scr/Franco.png')
 ####################
 ### INTRODUCTION ###
 ####################
@@ -75,7 +75,7 @@ with col11:
 col13, col14, col15, col16, col17 = st.columns(5)
 with col13:
     st.image(sole,width=100)
-    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/m-soledad-gonzalez-data">Mariana Soledad Gonzalez</a></h5>', unsafe_allow_html=True)
+    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/m-soledad-gonzalez-data">Soledad Gonzalez</a></h5>', unsafe_allow_html=True)
 with col14:
     st.image(Jacque,width=100)
     st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/jacqueline-dominguez-51191420/">Jacqueline Dominguez</a></h5>', unsafe_allow_html=True)
@@ -83,10 +83,10 @@ with col15:
     st.image(franco,width=100)
     st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/francosoto/">Franco Soto</a></h5>', unsafe_allow_html=True)
 with col16:
-    st.image(felix,width=110)
+    st.image(felix,width=100)
     st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/felixwongp/">Felix Wong</a></h5>', unsafe_allow_html=True)
 with col17:
     st.image(cesar,width=100)
-    st.markdown('<h5 style="text-align: cleft;"><a href="https://www.linkedin.com/in/cesar-augusto-quinayas-burgos-544084243/">César Quinayás</a></h5>', unsafe_allow_html=True)
+    st.markdown('<h5 style="text-align: left;"><a href="https://www.linkedin.com/in/cesar-augusto-quinayas-burgos-544084243/">César Quinayás</a></h5>', unsafe_allow_html=True)
 
 st.markdown('<h3 style="text-align: center; color:red">💹 Nuestro equipo está a su disposición para ayudarle a crear valor para su negocio 💹</h3>', unsafe_allow_html=True)
