@@ -17,6 +17,6 @@ with col2:
     st.markdown('<h3 style="text-align: center;">Análisis de alojamientos en Estados Unidos</h3>', unsafe_allow_html=True)   
 
     #st.markdown('<iframe title="Power_bi_viernes" width="1350" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiMTc2MTU0MTItM2ExMS00Mzc4LWIzM2QtNDdlOGFhOGZiMDFjIiwidCI6ImU0NmQzODYyLTg1OTUtNDVkMS05YjY5LTYzMDc5OGQ4OTAyZCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>', unsafe_allow_html=True)
-components.iframe(src="https://app.powerbi.com/view?r=eyJrIjoiZDgxOGRkODgtMjkxYi00ZjFmLWFlMTctNjVmZjc0OTc2N2I2IiwidCI6ImU0NmQzODYyLTg1OTUtNDVkMS05YjY5LTYzMDc5OGQ4OTAyZCIsImMiOjR9", width=1350, height=630, scrolling=True)
+components.iframe(src="https://app.powerbi.com/view?r=eyJrIjoiN2JhNDNhNGEtYjA2Ni00Yjk3LTkwN2EtMWM4ZjY1NWY0ZWM5IiwidCI6ImU0NmQzODYyLTg1OTUtNDVkMS05YjY5LTYzMDc5OGQ4OTAyZCIsImMiOjR9", width=1350, height=630, scrolling=True)
     
 
