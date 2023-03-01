@@ -42,12 +42,12 @@ with col4:
       
     if st.sidebar.button('Alcance'):
         st.image(alcance,width=900)
-    if st.sidebar.button('SCRUM'):
-        st.image(scrum,width=900)
-    if st.sidebar.button('Propuesta de valor'):
-        st.image(canvas,width=900)
     if st.sidebar.button('Fuentes'):
         st.image(fuentes,width=900)
+    if st.sidebar.button('Propuesta de valor'):
+        st.image(canvas,width=900)
+    if st.sidebar.button('SCRUM'):
+        st.image(scrum,width=900)
     if st.sidebar.button('Arquitectura'):
         st.image(arquitectura,width=900)
     if st.sidebar.button('Modelos'):
